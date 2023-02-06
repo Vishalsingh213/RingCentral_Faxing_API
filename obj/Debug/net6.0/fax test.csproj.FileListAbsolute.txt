@@ -1,0 +1,22 @@
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.csproj.AssemblyReference.cache
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.AssemblyInfoInputs.cache
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.AssemblyInfo.cs
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.csproj.CoreCompileInputs.cache
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\fax test.exe
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\fax test.deps.json
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\fax test.runtimeconfig.json
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\fax test.dll
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\fax test.pdb
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\crypto.dll
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\RingCentral.dll
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.csproj.CopyComplete
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.dll
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\refint\fax test.dll
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.pdb
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\fax test.genruntimeconfig.cache
+C:\Users\HP2\source\repos\fax test\fax test\obj\Debug\net6.0\ref\fax test.dll
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\Flurl.dll
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\Flurl.Http.dll
+C:\Users\HP2\source\repos\fax test\fax test\bin\Debug\net6.0\PubnubPCL.dll
